@@ -1,6 +1,6 @@
 # 🚀 AstroTrack
 
-AstroTrack is a data-driven project focused on the orbital analysis of asteroids using real-world observational data. It integrates astrophysical modeling, statistical inference, and deep learning to impute missing values, engineer orbital features, detect anomalies, and predict object classes — all while respecting the scientific rigor of the domain.
+AstroTrack is a data-driven project focused on the orbital analysis of asteroids using real-world observational data. It integrates astrophysical modeling, statistical inference, and deep learning to impute missing values, engineer orbital features, detect anomalies, and predict object classes all while respecting the scientific rigor of the domain.
 
 ---
 
