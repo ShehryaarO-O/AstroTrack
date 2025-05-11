@@ -4,6 +4,13 @@ AstroTrack is a data-driven project focused on the orbital analysis of asteroids
 
 ---
 
+### 📓 View the Full Notebook
+
+Due to some github rendering issues of the notebook, you can view the complete Jupyter notebook with code, formulas, and analysis rendered here:  
+🔗 [AstroTrack.ipynb on nbviewer](https://nbviewer.org/github/ShehryaarO-O/AstroTrack/blob/main/AstroTrack.ipynb)
+
+---
+
 ## 📦 Dataset Overview
 
 The dataset comprises observations of 4,500+ asteroids with 22 orbital features:
@@ -33,7 +40,7 @@ AstroTrack reconstructs missing values using orbital mechanics, not just statist
 - **Spatial parameters**: Regressed Perihelion Argument and Ascending Node Longitude
 - **Orbital uncertainty**: Reconstructed using heliocentric distance, vis-viva equation, and perturbation estimates
 
-📄 **Detailed equations, derivations, and physics-based imputations are available in the Report.pdf file.**
+📄 **NOTE** Detailed equations, derivations, and physics-based imputations are available in the **Report-AstroTrack.pdf** present in the repo.
 
 ---
 
