@@ -94,4 +94,4 @@ Custom Deep Neural Network:
 
 ## 👨‍💻 Authors
 
-Built by Shehryaar,Nayandeep and Prabhat; blending our love for astronomy, physics, and machine learning into a unified inference pipeline.
+Built by Shehryaar, Nayandeep, Prabhat and Argha; blending our love for astronomy, physics, and machine learning into a unified inference pipeline.
